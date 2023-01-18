@@ -138,8 +138,7 @@ This project will present you with an opportunity to design and implement a corr
 #### Assignment Submission
 
 All assignments have a stated due date and are to be turned in on that due date. Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline without severe grade penalty.
-By submitting each assignment a student pledges that they have complied with Allegheny Honor Code. You must follow assignment instructions for submitting your projects in order for them to be graded. Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline.
-
+By submitting each assignment a student pledges that they have complied with Allegheny Honor Code. You must follow assignment instructions for submitting your projects in order for them to be graded. 
 #### Attendance
 
 It is mandatory for all students to attend all of the class and laboratory sessions. There are two types of excused absences: 1) the one you notify the instructor about in advance (for example, if you have a job interview during the class/lab time or have a religious observance), 2) the one that occurs due to a documented emergency or illness. If you will not be able to attend a session, please let the instructor know at least one day in advance to describe your situation. In case you missed a class because of an emergency or an illness, please notify the instructor as soon as possible. In both cases the instructor will work with you to get you caught up. Students who miss more than five unexcused sessions will have their final grade in the course reduced by one letter grade. If you need to miss class due to a religious observance, please speak to me in advance to make appropriate arrangements.
