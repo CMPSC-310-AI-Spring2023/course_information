@@ -2,10 +2,6 @@
 
 ## Course community guidelines to govern interactions in CMPSC 310 Spring 2023
 
-## Deadline: January 20th at 9:00am
-
-## Activity grade: all students must make a contribution (e.g. commit) to receive credit
-
 ### Interactions in class and lab
 
 - TODO: add desired behavior for this category

@@ -105,7 +105,7 @@ Besides, the laptop there is no required hardware that you need for this class. 
 |---------------------|-----------|-----------------|
 |Class Activities     |25%        |check mark grade |
 |Conceptual Challenges|25%        |check mark grade |
-|Lab Assignments      |35%        |letter grade     |
+|Lab Projects      |35%        |letter grade     |
 |Course project       |15%        |letter grade     |
 |                     |           |                 |
 |Total                |100%       |                 |
