@@ -24,8 +24,8 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 
 |Week # |Dates           |Topic                                         |Activities/Assignments      |
 |-------|----------------|----------------------------------------------|----------------------------|
-|1      |Jan. 16-20      |Intro to AI.                                  |Community Guidelines. Moral Machine.|
-|2      |Jan. 23-27|Agents. Arduino.    |Activities 1-3. Lab 1 Released. Challenge Problem 1.|
+|1      |Jan. 16-20      |Intro to AI.                                  |Community Guidelines. Activity 1. |
+|2      |Jan. 23-27|Agents. Arduino.    |Activities 2-3. Lab 1 Released. Challenge Problem 1.|
 |3      |Jan.  30-Feb. 3  |Algorithms in AI.     | Activity 4. Continue Lab 1. Challenge Problem 2.  |
 |4      |Feb. 6-10      |Introduction to Learning.     | Activities 5-7. Challenge Problem 3. Lab 1 DUE.  |
 |5      |Feb. 13-17      |Supervised Learning.  | Activities 8-9. Challenge Problem 4. Lab 2 Released.|
@@ -183,7 +183,7 @@ Allegheny College uses an Academic Alert system to send progress notices to the 
 
 #### Class Deans
 
-The Office of Class Deans in Pelletier Library serves as a place for students to begin seeking assistance and answers to their questions related to college life. If you have a question and don’t know who to ask – ask a class dean. If you want advice – talk to a class dean. Niki Fjeldal is the First Year Class Dean, Amy Stearns is the Second Year Class Dean / Director of Transfer Advising, and Jonathon May is the Third/Fourth Year Class Dean. Please contact them individually or through studentsuccess@allegheny.edu.
+The Office of Class Deans in Pelletier Library serves as a place for students to begin seeking assistance and answers to their questions related to college life. If you have a question and don't know who to ask - ask a class dean. If you want advice - talk to a class dean. Niki Fjeldal is the First Year Class Dean, Amy Stearns is the Second Year Class Dean / Director of Transfer Advising, and Jonathon May is the Third/Fourth Year Class Dean. Please contact them individually or through studentsuccess@allegheny.edu.
 
 #### Mental Health and Wellness
 
@@ -191,7 +191,7 @@ As a college student, there may be times when personal stressors, struggles, and
 
 Keep in mind, course deadlines, absences, and accommodations for mental health are subject to the course policies and expectations that are set within this syllabus. Students are encouraged to communicate with their professors as soon as possible regarding their needs and seek support if their mental health impacts their academic performance or daily life. When you find yourself struggling emotionally, remember that there are supports available, and you are not alone.
 
-Students who are in need of mental health support can access free, confidential services and resources in the Counseling and Personal Development Center (CPDC). CPDC delivers holistic mental health services to the Allegheny College student campus community through brief individual and group counseling, crisis support, outreach programming, consultation, and coordination of care. Students may request services by submitting a form on CPDC’s website (`sites.allegheny.edu/counseling`). Students may also connect with a mental health clinician at any time by calling Allegheny’s 24/7 line: 814-332-2105. 
+Students who are in need of mental health support can access free, confidential services and resources in the Counseling and Personal Development Center (CPDC). CPDC delivers holistic mental health services to the Allegheny College student campus community through brief individual and group counseling, crisis support, outreach programming, consultation, and coordination of care. Students may request services by submitting a form on CPDC's website (`sites.allegheny.edu/counseling`). Students may also connect with a mental health clinician at any time by calling Allegheny's 24/7 line: 814-332-2105. 
 If you or someone you know is experiencing a mental health emergency, please call the 24/7 line, Public Safety (814-332-3357), or 911. When in doubt, reach out.
 
 #### Gator Success Grants
