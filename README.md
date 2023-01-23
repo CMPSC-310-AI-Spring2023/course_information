@@ -25,7 +25,7 @@ Below is a tenative schedule of covered topics and associated activities. The sc
 |Week # |Dates           |Topic                                         |Activities/Assignments      |
 |-------|----------------|----------------------------------------------|----------------------------|
 |1      |Jan. 16-20      |[Intro to AI.](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/1.IntroAI.pdf)                                  |Community Guidelines. [Activity 1.](https://forms.gle/WRtw7j5zd6uKmaSHA) |
-|2      |Jan. 23-27|[Agents](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/2.Agents.pdf).    |Activity 2. Activity 3. Lab 1 Released. Challenge Problem 1.|
+|2      |Jan. 23-27|[Agents](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/2.Agents.pdf).    |[Activity 2](https://forms.gle/qgKx6RKjsJTjBYgW7). Activity 3. Lab 1 Released. Challenge Problem 1.|
 |3      |Jan.  30-Feb. 3  |Algorithms in AI.     | Activity 4. Continue Lab 1. Challenge Problem 2.  |
 |4      |Feb. 6-10      |Introduction to Learning.     | Activities 5-7. Challenge Problem 3. Lab 1 DUE.  |
 |5      |Feb. 13-17      |Supervised Learning.  | Activities 8-9. Challenge Problem 4. Lab 2 Released.|
