@@ -20,28 +20,11 @@ This repository contains information about the Artificial Intelligence course, i
 
 Below is a tentative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
 
-Week # | Dates           | Topic                                                                                                                                                                                                          | Activities/Assignments
------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1      | Jan. 16-20      | [Intro to AI.](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/1.IntroAI.pdf)                                                                                                   | Community Guidelines. [Activity 1.](https://forms.gle/WRtw7j5zd6uKmaSHA)
-2      | Jan. 23-27      | [Agents](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/2.Agents.pdf). [Arduino](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/2.Arduino.pdf) | - [Activity 2](https://forms.gle/qgKx6RKjsJTjBYgW7).
-- [Activity 3](https://forms.gle/uw7Uwo9UY3gjEqKM7).
-- Activity 4.
-- [PROJECT 1]() Released.
-- Challenge Problem 1.
-3      | Jan. 30-Feb. 3  | Algorithms in AI.                                                                                                                                                                                              | Activity 4\. Continue Lab 1\. Challenge Problem 2.
-4      | Feb. 6-10       | Introduction to Learning.                                                                                                                                                                                      | Activities 5-7\. Challenge Problem 3\. Lab 1 DUE.
-5      | Feb. 13-17      | Supervised Learning.                                                                                                                                                                                           | Activities 8-9\. Challenge Problem 4\. Lab 2 Released.
-6      | Feb. 20-24      | Supervised Learning.                                                                                                                                                                                           | Activities 10-11\. Continue Lab 2.
-7      | Feb. 27-March 3 | Probability Fundamentals. Bayes Theory. Neural Networks. Challenge Problem 5.                                                                                                                                  | Continue Lab 2\. Activity 12.
-8      | March 6-10      | SPRING BREAK                                                                                                                                                                                                   |
-9      | March 13-17     | Deep Learning.                                                                                                                                                                                                 | Activities 12-13\. Lab 2 DUE.
-10     | March 20-24     | Deep Learning.                                                                                                                                                                                                 | Challenge Problem 6\. Lab 3 Released.
-11     | March 27-31     | Unsupervised Learning.                                                                                                                                                                                         | Activities 14-15\. Challenge Problem 7\. Continue Lab 3
-12     | April 3-7       | Unsupervised Learning.                                                                                                                                                                                         | Activity 16\. Challenge Problem 8\. Lab 3 DUE.
-13     | April 10-14     | Planning.                                                                                                                                                                                                      | Project Released.
-14     | April 17-21     | Logical AI.                                                                                                                                                                                                    | Continue Project.
-15     | April 24-28     | Future of AI.                                                                                                                                                                                                  | Continue Project.
-16     | May 1-5         | Summary.                                                                                                                                                                                                       | Project DUE.
+Week # | Dates          | Topic                                                                                                                                                                                                          | Activities/Assignments
+------ | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------
+1      | Jan. 16-20     | [Intro to AI.](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/1.IntroAI.pdf)                                                                                                   | Community Guidelines. [Activity 1.](https://forms.gle/WRtw7j5zd6uKmaSHA)
+2      | Jan. 23-27     | [Agents](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/2.Agents.pdf). [Arduino](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/2.Arduino.pdf) | [Activity 2](https://forms.gle/qgKx6RKjsJTjBYgW7). [Activity 3](https://forms.gle/uw7Uwo9UY3gjEqKM7). Activity 4\. [PROJECT 1]() Released.
+3      | Jan. 30-Feb. 3 | Algorithms in AI.                                                                                                                                                                                              | Activity 4\. Continue Lab 1\. Challenge Problem 1\. 4                                                                                      | Feb. 6-10 | Introduction to Learning. | Activities 5-7\. Challenge Problem 2\. Lab 1 DUE. 5 | Feb. 13-17 | Supervised Learning. | Activities 8-9\. Challenge Problem 3\. Lab 2 Released. 6 | Feb. 20-24 | Supervised Learning. | Activities 10-11\. Continue Lab 2\. 7 | Feb. 27-March 3 | Probability Fundamentals. Bayes Theory. Neural Networks. Challenge Problem 5. | Continue Lab 2\. Activity 12\. 8 | March 6-10 | SPRING BREAK | 9 | March 13-17 | Deep Learning. | Activities 12-13\. Lab 2 DUE. 10 | March 20-24 | Deep Learning. | Challenge Problem 6\. Lab 3 Released. 11 | March 27-31 | Unsupervised Learning. | Activities 14-15\. Challenge Problem 7\. Continue Lab 3 12 | April 3-7 | Unsupervised Learning. | Activity 16\. Challenge Problem 8\. Lab 3 DUE. 13 | April 10-14 | Planning. | Project Released. 14 | April 17-21 | Logical AI. | Continue Project. 15 | April 24-28 | Future of AI. | Continue Project. 16 | May 1-5 | Summary. | Project DUE.
 
 ## Instructor
 
@@ -109,12 +92,12 @@ Total                 | 100%
 
 #### Grading Scale
 
-Grading scale |           |    |           |    |
-:------------ | :-------- | :- | :-------- | :- | :-------------
+Grading scale |           |
+:------------ | :-------- | :- | :
 A             | 96 - 100  | A- | 90 - 95.9
 B+            | 87 - 89.9 | B  | 83 - 86.9 | B- | 80 - 82.9
 C+            | 77 - 79.9 | C  | 73 - 76.9 | C- | 70 - 72.9
-D+            | 67 - 69.9 | D  | 63 - 66.9 | F  | 59.9 and below
+D+            | 67 - 69.9 | D  | 63 - 66.9 | F | 59.9 and below
 
 #### Class Activities
 
