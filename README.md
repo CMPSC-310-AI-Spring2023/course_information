@@ -16,31 +16,32 @@ This repository contains information about the Artificial Intelligence course, i
 - [Course Policies](#Policies)
 - [Assistance](#Assistance)
 
+## Schedule
 
-### Schedule
+Below is a tentative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
 
-Below is a tenative schedule of covered topics and associated activities. The schedule is subject to change with the addition of guest appearances.
-
-
-|Week # |Dates           |Topic                                         |Activities/Assignments      |
-|-------|----------------|----------------------------------------------|----------------------------|
-|1      |Jan. 16-20      |[Intro to AI.](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/1.IntroAI.pdf)                                  |Community Guidelines. [Activity 1.](https://forms.gle/WRtw7j5zd6uKmaSHA) |
-|2      |Jan. 23-27|[Agents](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/2.Agents.pdf).    |[Activity 2](https://forms.gle/qgKx6RKjsJTjBYgW7). Activity 3. Lab 1 Released. Challenge Problem 1.|
-|3      |Jan.  30-Feb. 3  |Algorithms in AI.     | Activity 4. Continue Lab 1. Challenge Problem 2.  |
-|4      |Feb. 6-10      |Introduction to Learning.     | Activities 5-7. Challenge Problem 3. Lab 1 DUE.  |
-|5      |Feb. 13-17      |Supervised Learning.  | Activities 8-9. Challenge Problem 4. Lab 2 Released.|
-|6      |Feb. 20-24 | Supervised Learning. | Activities 10-11. Continue Lab 2. |
-|7      |Feb. 27-March 3        |Probability Fundamentals. Bayes Theory.  Neural Networks. Challenge Problem 5. | Continue Lab 2. Activity 12. |
-|8      |March 6-10       | SPRING BREAK    | |
-|9      |March 13-17      |Deep Learning.   | Activities 12-13.     Lab 2 DUE.   |
-|10     |March 20-24      |Deep Learning.    |  Challenge Problem 6. Lab 3 Released.    |
-|11     |March 27-31   |  Unsupervised Learning.  |   Activities 14-15. Challenge Problem 7.  Continue Lab 3   |
-|12 |April 3-7  |Unsupervised Learning. | Activity 16. Challenge Problem 8.  Lab 3 DUE.  |
-|13     |April 10-14      |Planning.     | Project Released.                            |
-|14     |April 17-21      |Logical AI.     |  Continue Project.                          |
-|15     |April 24-28 |Future of AI.        |  Continue Project.                          |
-|16     |May 1-5       |Summary.       |  Project DUE.                          |
-
+Week # | Dates           | Topic                                                                                                                                                                                                          | Activities/Assignments
+------ | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1      | Jan. 16-20      | [Intro to AI.](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/1.IntroAI.pdf)                                                                                                   | Community Guidelines. [Activity 1.](https://forms.gle/WRtw7j5zd6uKmaSHA)
+2      | Jan. 23-27      | [Agents](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/2.Agents.pdf). [Arduino](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/2.Arduino.pdf) | - [Activity 2](https://forms.gle/qgKx6RKjsJTjBYgW7).
+- [Activity 3](https://forms.gle/uw7Uwo9UY3gjEqKM7).
+- Activity 4.
+- [PROJECT 1]() Released.
+- Challenge Problem 1.
+3      | Jan. 30-Feb. 3  | Algorithms in AI.                                                                                                                                                                                              | Activity 4\. Continue Lab 1\. Challenge Problem 2.
+4      | Feb. 6-10       | Introduction to Learning.                                                                                                                                                                                      | Activities 5-7\. Challenge Problem 3\. Lab 1 DUE.
+5      | Feb. 13-17      | Supervised Learning.                                                                                                                                                                                           | Activities 8-9\. Challenge Problem 4\. Lab 2 Released.
+6      | Feb. 20-24      | Supervised Learning.                                                                                                                                                                                           | Activities 10-11\. Continue Lab 2.
+7      | Feb. 27-March 3 | Probability Fundamentals. Bayes Theory. Neural Networks. Challenge Problem 5.                                                                                                                                  | Continue Lab 2\. Activity 12.
+8      | March 6-10      | SPRING BREAK                                                                                                                                                                                                   |
+9      | March 13-17     | Deep Learning.                                                                                                                                                                                                 | Activities 12-13\. Lab 2 DUE.
+10     | March 20-24     | Deep Learning.                                                                                                                                                                                                 | Challenge Problem 6\. Lab 3 Released.
+11     | March 27-31     | Unsupervised Learning.                                                                                                                                                                                         | Activities 14-15\. Challenge Problem 7\. Continue Lab 3
+12     | April 3-7       | Unsupervised Learning.                                                                                                                                                                                         | Activity 16\. Challenge Problem 8\. Lab 3 DUE.
+13     | April 10-14     | Planning.                                                                                                                                                                                                      | Project Released.
+14     | April 17-21     | Logical AI.                                                                                                                                                                                                    | Continue Project.
+15     | April 24-28     | Future of AI.                                                                                                                                                                                                  | Continue Project.
+16     | May 1-5         | Summary.                                                                                                                                                                                                       | Project DUE.
 
 ## Instructor
 
@@ -56,20 +57,20 @@ Email: jjumadinova@allegheny.edu
 
 ## Meetings
 
-Session | Day      | Time              | Location
-------- | -------- | ----------------- | ---------
-Class   | Monday, Wednesday, Friday  | 9:00am - 9:50am  | Alden 109
-Lab     | Wednesday | 2:30pm - 4:20pm   | Alden 109/ALIC
+Session | Day                       | Time            | Location
+------- | ------------------------- | --------------- | --------------
+Class   | Monday, Wednesday, Friday | 9:00am - 9:50am | Alden 109
+Lab     | Wednesday                 | 2:30pm - 4:20pm | Alden 109/ALIC
 
 ### Discord
 
-If you are already on the department's Discord server, you will be given access to the course's Discord channel, called `#artificial-intelligence`. If not, then you will need to join the department's [Discord server](https://discord.gg/alleghenycs) before you can be added to the course's channel. 
+If you are already on the department's Discord server, you will be given access to the course's Discord channel, called `#artificial-intelligence`. If not, then you will need to join the department's [Discord server](https://discord.gg/alleghenycs) before you can be added to the course's channel.
 
 ### Description
 
 Credits: 4
 
-A study of the design and implementation of intelligent computer systems that can learn, plan, and solve problems autonomously. In addition to examining techniques for designing intelligent software agents, students investigate the social, political, and ethical implications of intelligent systems. Through hands-on activities that often require team-work, students explore the application of artificial intelligence methods in areas such as computer vision, natural language processing, and video game development. During a weekly laboratory session students use state-of-the-art technology to complete projects, reporting on their results through both written documents and oral presentations. 
+A study of the design and implementation of intelligent computer systems that can learn, plan, and solve problems autonomously. In addition to examining techniques for designing intelligent software agents, students investigate the social, political, and ethical implications of intelligent systems. Through hands-on activities that often require team-work, students explore the application of artificial intelligence methods in areas such as computer vision, natural language processing, and video game development. During a weekly laboratory session students use state-of-the-art technology to complete projects, reporting on their results through both written documents and oral presentations.
 
 Prerequisite: CMPSC 102.
 
@@ -77,21 +78,17 @@ Distribution Requirements: QR, SP.
 
 ### Objectives
 
-Complex real-world problems, such as web search, speech/face recognition, machine translation, and autonomous driving, involve rigorous solutions from the field of artificial intelligence or AI. This course will introduce students to the foundational principles that drive these intelligent applications and offer an opportunity to practice implementing some of these systems. Areas of discussion include, but are not limited to probabilistic methods, learning, Markov decision processes, graphical models, natural language processing, virtual reality, and logic. The main goal of the course is to equip students with the tools to tackle new AI problems they might encounter in life by learning how to determine when an AI approach is appropriate for a given situation, being able to select AI method and implement it. 
+Complex real-world problems, such as web search, speech/face recognition, machine translation, and autonomous driving, involve rigorous solutions from the field of artificial intelligence or AI. This course will introduce students to the foundational principles that drive these intelligent applications and offer an opportunity to practice implementing some of these systems. Areas of discussion include, but are not limited to probabilistic methods, learning, Markov decision processes, graphical models, natural language processing, virtual reality, and logic. The main goal of the course is to equip students with the tools to tackle new AI problems they might encounter in life by learning how to determine when an AI approach is appropriate for a given situation, being able to select AI method and implement it.
 
-The course will introduce students to the theory and practice of artificial intelligence while covering both the
-well-established and the cutting-edge areas of the discipline. The course also invites students to assess the
-correctness of their implementations and conduct both analytical and empirical evaluations of the performance of the AI systems while considering their  social, political, and ethical implications. Moreover, the course will ask students to implement small- and medium-scale intelligent
-systems and to use a wide variety of relevant AI tools. In addition to improving their teamwork skills, students
-will enhance their ability to write and speak about intelligent systems in a clear and concise fashion. 
+The course will introduce students to the theory and practice of artificial intelligence while covering both the well-established and the cutting-edge areas of the discipline. The course also invites students to assess the correctness of their implementations and conduct both analytical and empirical evaluations of the performance of the AI systems while considering their social, political, and ethical implications. Moreover, the course will ask students to implement small- and medium-scale intelligent systems and to use a wide variety of relevant AI tools. In addition to improving their teamwork skills, students will enhance their ability to write and speak about intelligent systems in a clear and concise fashion.
 
 ### Outcomes
 
-At the completion of this class, a student must be comfortable with the fundamental theory and practical techniques in artificial intelligence and be aware of the current research in the area.  Students should be able to recognize new problems that may be solved using artificial intelligence methods and implement a complete application that uses them to solve the stated problem. Students must develop and apply a strong knowledge of analytical and empirical techniques that they can use to characterize and predict the performance of intelligent systems. Finally, students should be comfortable discussing and arguing the philosophical, ethical, social and political issues surrounding intelligent systems.
+At the completion of this class, a student must be comfortable with the fundamental theory and practical techniques in artificial intelligence and be aware of the current research in the area. Students should be able to recognize new problems that may be solved using artificial intelligence methods and implement a complete application that uses them to solve the stated problem. Students must develop and apply a strong knowledge of analytical and empirical techniques that they can use to characterize and predict the performance of intelligent systems. Finally, students should be comfortable discussing and arguing the philosophical, ethical, social and political issues surrounding intelligent systems.
 
 ### Materials
 
-There is no required textbook for this course. All reading material will be provided by the instructor and linked on the [course schedule](#Schedule). 
+There is no required textbook for this course. All reading material will be provided by the instructor and linked on the [course schedule](#Schedule).
 
 You are required to bring a laptop to every class. Additionally, you will be required to install software on your laptop and if your laptop is not capable of working with specific software then a departmental laptop will be provided to you.
 
@@ -101,23 +98,23 @@ Besides, the laptop there is no required hardware that you need for this class. 
 
 #### Grading
 
-|Category             |Percentage |Assessment metric|
-|---------------------|-----------|-----------------|
-|Class Activities     |25%        |check mark grade |
-|Conceptual Challenges|25%        |check mark grade |
-|Lab Projects      |35%        |letter grade     |
-|Course project       |15%        |letter grade     |
-|                     |           |                 |
-|Total                |100%       |                 |
+Category              | Percentage | Assessment metric
+--------------------- | ---------- | -----------------
+Class Activities      | 25%        | check mark grade
+Conceptual Challenges | 25%        | check mark grade
+Lab Projects          | 35%        | letter grade
+Course project        | 15%        | letter grade
+                      |            |
+Total                 | 100%
 
 #### Grading Scale
 
-|Grading scale|            |             |            |             |            |
-|:------------|:-----------|:------------|:-----------|:------------|:-----------|
-|A            | 96 - 100   |A-           | 90 - 95.9  |
-|B+           | 87 - 89.9  |B            | 83 - 86.9  |B-           | 80 - 82.9  |
-|C+           | 77 - 79.9  |C            | 73 - 76.9  |C-           | 70 - 72.9  |
-|D+           | 67 - 69.9  |D            | 63 - 66.9  |F           | 59.9 and below  |
+Grading scale |           |    |           |    |
+:------------ | :-------- | :- | :-------- | :- | :-------------
+A             | 96 - 100  | A- | 90 - 95.9
+B+            | 87 - 89.9 | B  | 83 - 86.9 | B- | 80 - 82.9
+C+            | 77 - 79.9 | C  | 73 - 76.9 | C- | 70 - 72.9
+D+            | 67 - 69.9 | D  | 63 - 66.9 | F  | 59.9 and below
 
 #### Class Activities
 
@@ -129,7 +126,7 @@ At the end of nearly each week (starting with week 2), students will receive a p
 
 #### Lab Projects
 
-Graded on a percentage and credit/no-credit basis, these team-based assignments invite students to experiment with various tools and techniques for designing, implementing, evaluating, and documenting an intelligent agent system. To best ensure that students are ready to develop software  after graduation, students will complete most of the lab assignments in teams. The evaluation for each lab assignment will include a code review, demonstration, and performance assessment. 
+Graded on a percentage and credit/no-credit basis, these team-based assignments invite students to experiment with various tools and techniques for designing, implementing, evaluating, and documenting an intelligent agent system. To best ensure that students are ready to develop software after graduation, students will complete most of the lab assignments in teams. The evaluation for each lab assignment will include a code review, demonstration, and performance assessment.
 
 #### Course project
 
@@ -137,8 +134,8 @@ This project will present you with an opportunity to design and implement a corr
 
 #### Assignment Submission
 
-All assignments have a stated due date and are to be turned in on that due date. Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline without severe grade penalty.
-By submitting each assignment a student pledges that they have complied with Allegheny Honor Code. You must follow assignment instructions for submitting your projects in order for them to be graded. 
+All assignments have a stated due date and are to be turned in on that due date. Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline without severe grade penalty. By submitting each assignment a student pledges that they have complied with Allegheny Honor Code. You must follow assignment instructions for submitting your projects in order for them to be graded.
+
 #### Attendance
 
 It is mandatory for all students to attend all of the class and laboratory sessions. There are two types of excused absences: 1) the one you notify the instructor about in advance (for example, if you have a job interview during the class/lab time or have a religious observance), 2) the one that occurs due to a documented emergency or illness. If you will not be able to attend a session, please let the instructor know at least one day in advance to describe your situation. In case you missed a class because of an emergency or an illness, please notify the instructor as soon as possible. In both cases the instructor will work with you to get you caught up. Students who miss more than five unexcused sessions will have their final grade in the course reduced by one letter grade. If you need to miss class due to a religious observance, please speak to me in advance to make appropriate arrangements.
@@ -169,7 +166,7 @@ The above statement, of course, also applies to online forums such as Stack Over
 
 The discipline of computer science, like many others, encourages its members to act according to discipline-specific ethics. I encourage you to take time to review the Association for Computing Machinery (ACM) [Code of Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf).
 
-In addition, students in this class are required to act within the bounds established by the [Course Community Guidelines](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/community_guidelines.md). 
+In addition, students in this class are required to act within the bounds established by the [Course Community Guidelines](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/community_guidelines.md).
 
 ### Assistance
 
@@ -191,18 +188,16 @@ As a college student, there may be times when personal stressors, struggles, and
 
 Keep in mind, course deadlines, absences, and accommodations for mental health are subject to the course policies and expectations that are set within this syllabus. Students are encouraged to communicate with their professors as soon as possible regarding their needs and seek support if their mental health impacts their academic performance or daily life. When you find yourself struggling emotionally, remember that there are supports available, and you are not alone.
 
-Students who are in need of mental health support can access free, confidential services and resources in the Counseling and Personal Development Center (CPDC). CPDC delivers holistic mental health services to the Allegheny College student campus community through brief individual and group counseling, crisis support, outreach programming, consultation, and coordination of care. Students may request services by submitting a form on CPDC's website (`sites.allegheny.edu/counseling`). Students may also connect with a mental health clinician at any time by calling Allegheny's 24/7 line: 814-332-2105. 
-If you or someone you know is experiencing a mental health emergency, please call the 24/7 line, Public Safety (814-332-3357), or 911. When in doubt, reach out.
+Students who are in need of mental health support can access free, confidential services and resources in the Counseling and Personal Development Center (CPDC). CPDC delivers holistic mental health services to the Allegheny College student campus community through brief individual and group counseling, crisis support, outreach programming, consultation, and coordination of care. Students may request services by submitting a form on CPDC's website (`sites.allegheny.edu/counseling`). Students may also connect with a mental health clinician at any time by calling Allegheny's 24/7 line: 814-332-2105\. If you or someone you know is experiencing a mental health emergency, please call the 24/7 line, Public Safety (814-332-3357), or 911\. When in doubt, reach out.
 
 #### Gator Success Grants
 
 The Gator Success Grant program is designed to provide students with additional financial assistance to offset the total cost of college attendance and to encourage successful on-time degree completion. Currently enrolled students who have an unanticipated need are invited to apply. Grants are usually from a few hundred to a few thousand dollars, depending on the request and the student's need. Please direct questions to `studentsuccess@allegheny.edu`.
 
-#### Religious Observance 
+#### Religious Observance
 
 If you need to miss class or reschedule a final examination due to a religious observance, please speak to the professor well in advance to make arrangements. Please see `https://sites.allegheny.edu/religiouslife/religious-holy-days/` for more details.
 
 #### Educational Accommodations
 
-Students with disabilities who believe they may need accommodations in this class are encouraged to contact Student Accessibility and Support Services (SASS) at (814) 332-2898.  Student Accessibility and Support Services is located in Pelletier Library.  Please do this as soon as possible to ensure that such accommodations are implemented in a timely fashion. Please see `https://sites.allegheny.edu/studentaccessibility/` for more details.
-
+Students with disabilities who believe they may need accommodations in this class are encouraged to contact Student Accessibility and Support Services (SASS) at (814) 332-2898\. Student Accessibility and Support Services is located in Pelletier Library. Please do this as soon as possible to ensure that such accommodations are implemented in a timely fashion. Please see `https://sites.allegheny.edu/studentaccessibility/` for more details.
