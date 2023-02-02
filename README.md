@@ -24,7 +24,7 @@ Week # | Dates          | Topic                                                 
 ------ | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------
 1      | Jan. 16-20     | [Intro to AI.](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/1.IntroAI.pdf) | Community Guidelines. [Activity 1.](https://forms.gle/WRtw7j5zd6uKmaSHA) |
 2      | Jan. 23-27     | [Agents](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/2.Agents.pdf). [Arduino](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/2.Arduino.pdf) | [Activity 2](https://forms.gle/qgKx6RKjsJTjBYgW7). [Activity 3](https://forms.gle/uw7Uwo9UY3gjEqKM7). [Activity 4](https://forms.gle/6DxAaAg5oiepSvCbA)\. [PROJECT 1](https://classroom.github.com/a/na8ceat4) Released. |
-3      | Jan. 30-Feb. 3 | [Search Algorithms in AI.](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/3.Search.pdf)  | [Activity 5](https://classroom.github.com/a/-aXrittx)\. Continue Lab 1\. Challenge Problem 1\. |
+3      | Jan. 30-Feb. 3 | [Search Algorithms in AI.](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/3.Search.pdf)  | [Activity 5](https://classroom.github.com/a/-aXrittx)\. Continue Lab 1\. [Challenge Problem 1](https://classroom.github.com/a/f3bOg2wU)\. |
 4 | Feb. 6-10 | Introduction to Learning. | Activities 6-7\. Challenge Problem 2\. Lab 1 DUE. |
 5 | Feb. 13-17 | Supervised Learning. | Activities 8-9\. Challenge Problem 3\. Lab 2 Released. |
 6 | Feb. 20-24 | Supervised Learning. | Activities 10-11\. Continue Lab 2\. |
@@ -105,8 +105,8 @@ Total                 | 100%
 
 #### Grading Scale
 
-Grading scale |           |
-:------------ | :-------- | :- | :
+Grading scale |           |     |         |     |
+------------ | -------- | - | - | -------| 
 A             | 96 - 100  | A- | 90 - 95.9
 B+            | 87 - 89.9 | B  | 83 - 86.9 | B- | 80 - 82.9
 C+            | 77 - 79.9 | C  | 73 - 76.9 | C- | 70 - 72.9
@@ -118,7 +118,7 @@ All students are required to actively participate during all of the class sessio
 
 #### Conceptual Challenges
 
-At the end of nearly each week (starting with week 2), students will receive a problem, often containing subparts, to solve. These challenge problems are conceptual in nature and do not require any programming. You will receive a checkmark grade (1) if you complete more than 70% of the challenge; otherwise you will receive a 0.
+At the end of nearly each week (starting with week 3), students will receive a problem, often containing subparts, to solve. These challenge problems are conceptual in nature and do not require any programming. You will receive a checkmark grade (1) if you complete more than 70% of the challenge; otherwise you will receive a 0.
 
 #### Lab Projects
 
