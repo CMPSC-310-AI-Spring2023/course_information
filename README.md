@@ -100,7 +100,6 @@ Class Activities      | 25%        | check mark grade
 Conceptual Challenges | 25%        | check mark grade
 Lab Projects          | 35%        | letter grade
 Course project        | 15%        | letter grade
-                      |            |
 Total                 | 100%
 
 #### Grading Scale
