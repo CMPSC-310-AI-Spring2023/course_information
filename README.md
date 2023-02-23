@@ -27,15 +27,15 @@ Week # | Dates          | Topic                                                 
 3      | Jan. 30-Feb. 3 | [Search Algorithms in AI.](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/3.Search.pdf)  | <ul><li>[Activity 5: Search Algorithms](https://classroom.github.com/a/-aXrittx)\.</li> <li>Continue Lab 1\.</li> <li>[Challenge Problem 1](https://classroom.github.com/a/f3bOg2wU)\.</li> <li>Read [Graph Search Algorithms Chapter](https://www.oreilly.com/library/view/graph-algorithms/9781492047674/ch04.html) </li></ul> |
 4 | Feb. 6-10 | <ul><li>[Introduction to Learning.](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/4.Learning.pdf)</li></ul> | <ul><li>[Activity 6: Algorithmic Bias](https://forms.gle/eeRTaXwNEnd4a7de6)\.</li> <li>Lab 1 DUE. </li> <li>[Activity 7: WhatIf.](https://forms.gle/S1kp7rCXRb7kRgbK8)</li></ul> |
 5 | Feb. 13-17 | [Supervised Learning.](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/5.SupervisedLearning.pdf) | <ul><li>[Activity 8: Image Classification](https://classroom.github.com/a/1_Q7rQs4)\.</li> <li>Ref: [Supervised Learning notebook](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb).</li> <li>[Challenge Problem 2](https://classroom.github.com/a/R0oeiMVV)\.</li> </ul> |
-6 | Feb. 20-24 | [Computer Vision.](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/6.ComputerVision.pdf) | <ul><li>[Activity 9: Image Manipulation](https://classroom.github.com/a/cHjCVgZJ).</li> <li>[PROJECT 2](https://classroom.github.com/a/OGCIyWKJ) Released.</li></ul> |
-7 | Feb. 27-March 3 | Probability Fundamentals. Bayes Theory. Neural Networks. Challenge Problem 5. | Continue Lab 2\. Activity 12\. |
+6 | Feb. 20-24 | [Computer Vision.](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/6.ComputerVision.pdf) | <ul><li>[Activity 9: Image Manipulation](https://classroom.github.com/a/cHjCVgZJ).</li> <li>[PROJECT 2](https://classroom.github.com/a/OGCIyWKJ) Released.</li> <li>[Challenge Problem 3]()</li></ul> |
+7 | Feb. 27-March 3 | Probability Fundamentals. Bayes Theory. Neural Networks. Challenge Problem 4. | Continue Lab 2\. Activity 12\. |
 8 | March 6-10 | SPRING BREAK | |
-9 | March 13-17 | Deep Learning. | Activities 12-13\. Lab 2 DUE. |
-10 | March 20-24 | Deep Learning. | Challenge Problem 6\. Lab 3 Released. |
+9 | March 13-17 | Deep Learning. | Activities 12-13\. Lab 2 DUE. Challenge Problem 5. |
+10 | March 20-24 | Deep Learning. | Challenge Problem 6. Lab 3 Released. |
 11 | March 27-31 | Unsupervised Learning. | Activities 14-15\. Challenge Problem 7\. Continue Lab 3 |
 12 | April 3-7 | Unsupervised Learning. | Activity 16\. Challenge Problem 8\. Lab 3 DUE. |
-13 | April 10-14 | Planning. | Project Released. |
-14 | April 17-21 | Logical AI. | Continue Project. | 
+13 | April 10-14 | Planning. | Project Released. Challenge Problem 9. |
+14 | April 17-21 | Logical AI. | Continue Project. Challenge Problem 10. | 
 15 | April 24-28 | Future of AI. | Continue Project. | 
 16 | May 1-5 | Summary. | Project DUE.|
 
@@ -104,12 +104,13 @@ Total                 | 100%
 
 #### Grading Scale
 
-Grading scale |           |     |         |     |
------------- | -------- | - | - | -------| 
-A             | 96 - 100  | A- | 90 - 95.9
-B+            | 87 - 89.9 | B  | 83 - 86.9 | B- | 80 - 82.9
-C+            | 77 - 79.9 | C  | 73 - 76.9 | C- | 70 - 72.9
-D+            | 67 - 69.9 | D  | 63 - 66.9 | F | 59.9 and below
+|Grading scale|            |             |            |             |            |
+|:------------|:-----------|:------------|:-----------|:------------|:-----------|
+|A            | 96 - 100   |A-           | 90 - 95.9  |
+|B+           | 87 - 89.9  |B            | 83 - 86.9  |B-           | 80 - 82.9  |
+|C+           | 77 - 79.9  |C            | 73 - 76.9  |C-           | 70 - 72.9  |
+|D+           | 67 - 69.9  |D            | 63 - 66.9  |D-           | 60 - 62.9  |
+|F            | 59.9 and below |
 
 #### Class Activities
 
