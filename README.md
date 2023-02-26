@@ -30,8 +30,8 @@ Week # | Dates          | Topic                                                 
 6 | Feb. 20-24 | [Computer Vision.](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/6.ComputerVision.pdf) | <ul><li>[Activity 9: Image Manipulation](https://classroom.github.com/a/cHjCVgZJ).</li> <li>[PROJECT 2](https://classroom.github.com/a/OGCIyWKJ) Released.</li> <li>[Challenge Problem 3](https://classroom.github.com/a/iUAtuWSa)</li></ul> |
 7 | Feb. 27-March 3 | [Probability Fundamentals. Bayes Theory.](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/7.ProbabilityBN.pdf)   | <ul><li>Continue Lab 2\.</li> <li>[Activity 10: Probability](https://classroom.github.com/a/kssOdX6B).</li> <li>Challenge Problem 4.</li></ul> |
 8 | March 6-10 | SPRING BREAK | |
-9 | March 13-17 | Deep Learning. | Activities 12-13\. Lab 2 DUE. Challenge Problem 5. |
-10 | March 20-24 | Deep Learning. | Challenge Problem 6. Lab 3 Released. |
+9 | March 13-17 | Neural Networks. Deep Learning. | Activities 12-13\. Lab 2 DUE. Challenge Problem 5. |
+10 | March 20-24 | Deep Learning. | Challenge Problem 6. Project 3 Released. |
 11 | March 27-31 | Unsupervised Learning. | Activities 14-15\. Challenge Problem 7\. Continue Lab 3 |
 12 | April 3-7 | Unsupervised Learning. | Activity 16\. Challenge Problem 8\. Lab 3 DUE. |
 13 | April 10-14 | Planning. | Project Released. Challenge Problem 9. |
