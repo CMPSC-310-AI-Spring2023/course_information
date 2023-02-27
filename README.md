@@ -33,7 +33,7 @@ Week # | Dates          | Topic                                                 
 9 | March 13-17 | Neural Networks. | Activities 12-13\. Lab 2 DUE. Challenge Problem 5. |
 10 | March 20-24 | Deep Learning. | Challenge Problem 6. Project 3 Released. |
 11 | March 27-31 | Deep Learning. | Activities 14-15\. Challenge Problem 7\. Continue Lab 3 |
-12 | April 3-7 | Unsupervised Learning. | Activity 16\. Challenge Problem 8\. Lab 3 DUE. |
+12 | April 3-7 | AI's carbon impact. Unsupervised Learning. | Activity 16\. Challenge Problem 8\. Lab 3 DUE. |
 13 | April 10-14 | Planning. | Project Released. Challenge Problem 9. |
 14 | April 17-21 | Logical AI. | Continue Project. Challenge Problem 10. | 
 15 | April 24-28 | Future of AI. | Continue Project. | 
