@@ -33,8 +33,8 @@ Week # | Dates          | Topic                                                 
 9 | March 13-17 | Project 2 work | Lab 2 DUE. |
 10 | March 20-24 | [Neural Networks](https://github.com/CMPSC-310-AI-Spring2023/course_information/blob/main/slides/9.NN.pdf). | <ul><li>[Activity 12](https://classroom.github.com/a/cZF9Du5c).</li> <li>Challenge Problem 5.</li> <li>Project 3 Released.</li> <li> [Read Section 2.3: Linear Algebra](https://d2l.ai/chapter_preliminaries/linear-algebra.htmll)</li></ul> |
 11 | March 27-31 | Deep Learning. | Activities 14-15\. Challenge Problem 6\. Continue Lab 3 |
-12 | April 3-7 | AI's carbon impact. Unsupervised Learning. | Activity 16\. Challenge Problem 7\. Lab 3 DUE. |
-13 | April 10-14 | Planning. | Project Released. Challenge Problem 8. |
+12 | April 3-7 | AI's carbon impact. Deep Learning. | Activity 16\. Challenge Problem 7\. Lab 3 DUE. |
+13 | April 10-14 | Unsupervised and self learning. | Project Released. Challenge Problem 8. |
 14 | April 17-21 | Logical AI. | Continue Project. Challenge Problem 9. | 
 15 | April 24-28 | Future of AI. | Continue Project. | 
 16 | May 1-5 | Summary. | Project DUE.|
